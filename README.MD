@@ -16,3 +16,4 @@ To manage large datasets efficiently, I've integrated a slicer that empowers use
 ![Untitled](https://github.com/Ryvier/CoffeeSalesProject/assets/121738229/805e7a02-dc3d-4109-9be7-02e918f710bf)
 
 
+![Untitled](https://github.com/Ryvier/CoffeeSalesProject/assets/121738229/7b2712ed-dd93-4e80-9bc1-5760e9d19ce6)
