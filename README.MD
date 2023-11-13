@@ -13,7 +13,7 @@ To manage large datasets efficiently, I've integrated a slicer that empowers use
 
 - In summary, this Excel coffee sales project combines PivotTables, an adjustable Timeline, and a product slicer to deliver a comprehensive and user-centric approach to sales forecasting and data analysis. It provides the means to make data-driven decisions effectively and navigate through extensive sales data with ease.
 
-![Untitled](https://github.com/Ryvier/CoffeeSalesProject/assets/121738229/805e7a02-dc3d-4109-9be7-02e918f710bf)
+![Dashboard ss](https://github.com/Ryvier/CoffeeSalesProject/assets/121738229/7a560538-b390-4820-8d4e-205f31b4b223)
 
 
-![Untitled](https://github.com/Ryvier/CoffeeSalesProject/assets/121738229/7b2712ed-dd93-4e80-9bc1-5760e9d19ce6)
+
